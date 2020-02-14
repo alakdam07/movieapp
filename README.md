@@ -4,4 +4,4 @@
 
 ## Fetch data from Movie db (https://developers.themoviedb.org/3/getting-started/introduction).
 
-## Technology: React js.
+## Technology: React js. Deployed in AWS: https://master.d1fu2tsvoa8zyl.amplifyapp.com/
